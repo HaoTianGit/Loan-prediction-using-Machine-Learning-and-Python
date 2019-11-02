@@ -1,8 +1,6 @@
 # INFOSYS722 Loan-prediction-using-Machine-Learning-and-python and spark
 
 
-## Aim
-
 ## Attributes in the dataset
 
 Loan id, Gender, Married, Dependents, Education, Self Employed, Applicant income, Coapplicant income, Loan Amount,Credit History, Property_Area, Loan_Status
